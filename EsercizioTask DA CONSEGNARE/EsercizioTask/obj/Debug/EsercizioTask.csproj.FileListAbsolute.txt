@@ -1,0 +1,29 @@
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\bin\Debug\EsercizioTask.exe.config
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\bin\Debug\EsercizioTask.exe
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\bin\Debug\EsercizioTask.pdb
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask.csprojAssemblyReference.cache
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\MainWindow.g.cs
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\App.g.cs
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask_MarkupCompile.cache
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask_MarkupCompile.lref
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\MainWindow.baml
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask.g.resources
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask.Properties.Resources.resources
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask.csproj.GenerateResource.cache
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask.csproj.CoreCompileInputs.cache
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask.exe
+C:\Users\Jacopo Montella\source\repos\EsercizioTask\EsercizioTask\obj\Debug\EsercizioTask.pdb
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\bin\Debug\EsercizioTask.exe.config
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\bin\Debug\EsercizioTask.exe
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\bin\Debug\EsercizioTask.pdb
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask.csprojAssemblyReference.cache
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\MainWindow.g.cs
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\App.g.cs
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask_MarkupCompile.cache
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask_MarkupCompile.lref
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\MainWindow.baml
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask.g.resources
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask.Properties.Resources.resources
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask.csproj.GenerateResource.cache
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask.exe
+C:\Users\studenti\Desktop\Progress-Bar-main\Progress-Bar-main\EsercizioTask DA CONSEGNARE\EsercizioTask\obj\Debug\EsercizioTask.pdb
